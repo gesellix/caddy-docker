@@ -1,5 +1,5 @@
 # Caddy
-The Caddy HTTP/2 web server in Docker
+The [Caddy](https://caddyserver.com/) HTTP/2 web server in [Docker](https://www.docker.com/).
 
 ## Usage
 
